@@ -7,6 +7,7 @@ Look at many games reviewed by the gaming community, leave comments, or make you
   * Update forms and general UI of the entire site
   * Add edit, delete, and reply options to comments
   * Add bad words filter API to filter obscene language
+  * Refactor code for middleware, routes, and add more comments
 
 **How To Use:**
 [Click here to visit the site!](https://secure-basin-60888.herokuapp.com/)
