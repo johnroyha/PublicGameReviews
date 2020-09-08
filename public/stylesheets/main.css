@@ -1,0 +1,12 @@
+#delete-form {
+    display: inline;
+}
+
+#game {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+img {
+    width: 100%;
+}

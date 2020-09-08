@@ -1,0 +1,10 @@
+<%- include("../partials/header") %>
+<h1>Create a new game review</h1>
+<form action="/games" method="POST">
+    <input type="text" name="name" placeholder="Name">
+    <input type="text" name="image" placeholder="Image URL (landscape)">
+    <input type="text" name="desc" placeholder="Description">
+    <button>Submit</button>
+</form>
+
+<%- include("../partials/footer") %>

@@ -1,0 +1,10 @@
+<%- include("../partials/header") %>
+<h1>Edit <%= game.name %></h1>
+<form action="/games/<%= game._id %>?_method=PUT" method="POST">
+    <input type="text" name="game[name]" value="<%= game.name %>">
+    <input type="text" name="game[image]" value="<%= game.image %>">
+    <input type="text" name="game[desc]" value="<%= game.desc %>">
+    <button>Submit</button>
+</form>
+
+<%- include("../partials/footer") %>
