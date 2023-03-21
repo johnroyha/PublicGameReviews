@@ -10,4 +10,5 @@ Look at many games reviewed by the gaming community, leave comments, or make you
   * Refactor code for middleware, routes, and add more comments
 
 **How To Use:**
-[Click here to visit the site!](https://secure-basin-60888.herokuapp.com/)
+[Click here to visit the site!](https://secure-basin-60888.herokuapp.com/)<br>
+(Due to Heroku discontinuing free tier plans, the site is currently unaccessible.)
